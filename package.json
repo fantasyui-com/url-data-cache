@@ -20,7 +20,7 @@
   "homepage": "https://github.com/fantasyui-com/url-data-cache#readme",
   "dependencies": {
     "os-paths": "^3.0.2",
-    "rimraf": "^2.6.3",
+    "rimraf": "^6.1.3",
     "shasum": "^1.0.2"
   }
 }
